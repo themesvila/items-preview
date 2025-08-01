@@ -152,13 +152,13 @@ color:#333;
 }
 .hero h1 {
 	color: #fff;
-	font-size: 50px;
-	font-weight: 500;
+	font-size: 43px;
+	font-weight: 700;
 	margin: 0;
 	overflow: hidden;
 	padding-bottom: 20px;
 	text-transform: capitalize;
-	line-height: 60px;
+	line-height: 59px;
 }
 @media only screen and (max-width:480px) { 
 .hero h1{
@@ -168,10 +168,10 @@ line-height: 40px;
 }
 .hero p {
 	color: #fff;
-	font-size: 20px;
+	font-size: 17px;
 	font-weight: 500;
-	width:70%;
-	margin:auto;
+	width: 72%;
+	margin: auto;
 }
 .hero-text span{
 background: #41cb52 none repeat scroll 0 0;
